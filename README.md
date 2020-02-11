@@ -58,6 +58,7 @@ Multi-Agent Interaction / OpenAI](https://openai.com/blog/emergent-tool-use/)
 - [A curated list of synthetic content generators](https://github.com/paubric/thisrepositorydoesnotexist)
 - [A collection of StyleGAN pretrained models](https://github.com/justinpinkney/awesome-pretrained-stylegan)
 - [StyleGAN encoder / Peter Baylies](https://github.com/pbaylies/stylegan-encoder)
+- [StyleGAN explorer, works in colab + UI](https://github.com/gpt2ent/stylegan-explorer)
 
 ### Runway code Examples (by Daniel Shiffman)
 * [The Coding Train Coding Challenge #150: AI Rainbows with RunwayML and p5.js](https://thecodingtrain.com/CodingChallenges/150-runway-rainbows.html)
