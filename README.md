@@ -31,6 +31,7 @@ Multi-Agent Interaction / OpenAI](https://openai.com/blog/emergent-tool-use/)
 - [GauGAN experiment / Jonathan Fly](https://twitter.com/jonathanfly/status/1223042887639760896)
 - [Segmentation mask (from Unity) into Spade face (from Runway)](https://twitter.com/pretendsmarts/status/1189642138415517697)
 - [XOROMANCY Using hand tracking to walk latent space](http://www.graycrawford.com/xoromancy)
+- [Live Brush to GauGAN thing](https://twitter.com/fabinrasheed/status/1191255610479669248)
 
 ### People to follow
 - [Gene Kogan](https://genekogan.com/)
@@ -50,6 +51,7 @@ Multi-Agent Interaction / OpenAI](https://openai.com/blog/emergent-tool-use/)
 - [Scraping Flickr Tags](https://www.youtube.com/watch?v=Ygsk9vMRTtg)
 - [Scraping Google Images](https://www.youtube.com/watch?v=X2w1oMfXYfk)
 - [Scraping Instagram](https://www.youtube.com/watch?v=tBmQcdLLFyc&t=243s)
+- [How to find new machine learning models and test them in Colab](https://www.youtube.com/watch?v=Ylb5pjCs1XU)
 - ["Entar" Colab pipeline for re-masteing, coloring old movies + Ken Burns effect / Denis Malimonov
 @tg-bomze](https://colab.research.google.com/github/tg-bomze/ENTAR/blob/master/ENTAR_Eng.ipynb)
 - [Runway Processing (not p5!) Library](https://github.com/runwayml/processing-library)
