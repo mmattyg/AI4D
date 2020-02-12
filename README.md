@@ -68,5 +68,5 @@ Multi-Agent Interaction / OpenAI](https://openai.com/blog/emergent-tool-use/)
 * [Send webcam video to RunwayML - HTTP](https://editor.p5js.org/ima_ml/sketches/cp87sFNRw)
 * [Send webcam video to RunwayML - Socket.io](https://editor.p5js.org/ima_ml/sketches/1wLmWw0XI)
 * [Generate StyleGAN Image](https://editor.p5js.org/ima_ml/sketches/GOiFqtbkK)
-* StyleGAN+Runway latent space walks[1/ Lerp loop between two images](https://editor.p5js.org/ima_ml/sketches/dyJmIybwi-) and [2/ random. constant and noise walks](https://editor.p5js.org/ima_ml/sketches/7YZzS37yh)
+* StyleGAN+Runway latent space walks [1/ Lerp loop between two images](https://editor.p5js.org/ima_ml/sketches/dyJmIybwi-) and [2/ random, constant and noise walks](https://editor.p5js.org/ima_ml/sketches/7YZzS37yh)
 
