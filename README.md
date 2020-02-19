@@ -43,14 +43,20 @@ Multi-Agent Interaction / OpenAI](https://openai.com/blog/emergent-tool-use/)
 - [Joel Simon](http://www.joelsimon.net/)
 - [Memo Akten](http://www.memo.tv/)
 
+### Scraping
+Tutorials by Derrick Schultz:
+- [Scraping Flickr Tags](https://www.youtube.com/watch?v=Ygsk9vMRTtg)
+- [Scraping Google Images](https://www.youtube.com/watch?v=X2w1oMfXYfk)
+- [Scraping Instagram](https://www.youtube.com/watch?v=tBmQcdLLFyc&t=243s)
+
+Other:
+- [Fatkun batch download image](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf)
+
 ### Tools, Tutorials, Models
 
 - [Daniel Shiffman's Coding Train: The bestest creative coding videos](https://thecodingtrain.com/)
 - [Peter Baylies StyleGAN 2, trained on WikiArt images](https://github.com/pbaylies/stylegan2)
 - [Google Colab of this ^](https://colab.research.google.com/drive/1s7HPdmdOjBhvj1vhz9zP2d4rn_GhdoZR)
-- [Scraping Flickr Tags](https://www.youtube.com/watch?v=Ygsk9vMRTtg)
-- [Scraping Google Images](https://www.youtube.com/watch?v=X2w1oMfXYfk)
-- [Scraping Instagram](https://www.youtube.com/watch?v=tBmQcdLLFyc&t=243s)
 - [How to find new machine learning models and test them in Colab](https://www.youtube.com/watch?v=Ylb5pjCs1XU)
 - ["Entar" Colab pipeline for re-masteing, coloring old movies + Ken Burns effect / Denis Malimonov
 @tg-bomze](https://colab.research.google.com/github/tg-bomze/ENTAR/blob/master/ENTAR_Eng.ipynb)
