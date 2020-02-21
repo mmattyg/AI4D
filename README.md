@@ -4,6 +4,7 @@ Workshop links
 ## Tools we used
 - [Runway Machine Learning for Creators](https://runwayml.com/)
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
+- [Colab demo: first order motion](https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb#scrollTo=UCMFMJV7K-ag)
 
 ## Datasets
 - Just search Google: [flower dataset](https://www.google.com/search?q=flower+dataset), [shoe dataset](https://www.google.com/search?q=shoe+dataset)
@@ -30,13 +31,18 @@ Dataset resizing
 - [Flexxi - Batch Image Resizer - Use at own risk](https://sourceforge.net/projects/flexxi-image-resizer/)
 
 
-## Runway code Examples (by Daniel Shiffman)
+## Runway code Examples
+by Daniel Shiffman
 * [The Coding Train Coding Challenge #150: AI Rainbows with RunwayML and p5.js](https://thecodingtrain.com/CodingChallenges/150-runway-rainbows.html)
 * [Send mouse input to RunwayML](https://editor.p5js.org/ima_ml/sketches/OUDjk3H4-)
 * [Send webcam video to RunwayML - HTTP](https://editor.p5js.org/ima_ml/sketches/cp87sFNRw)
 * [Send webcam video to RunwayML - Socket.io](https://editor.p5js.org/ima_ml/sketches/1wLmWw0XI)
 * [Generate StyleGAN Image](https://editor.p5js.org/ima_ml/sketches/GOiFqtbkK)
 * StyleGAN+Runway latent space walks [1/ Lerp loop between two images](https://editor.p5js.org/ima_ml/sketches/dyJmIybwi-) and [2/ random, constant and noise walks](https://editor.p5js.org/ima_ml/sketches/7YZzS37yh)
+
+Others P5.JS / ML5 / TF.JS demos
+- [Webcam Image Classification using MobileNet and p5.js](https://editor.p5js.org/yining/sketches/YXh8UG6pV)
+- [BigGAN send random vector + category to Runway, get image](https://editor.p5js.org/yining/sketches/kXqoZJuOf)
 
 
 
@@ -82,6 +88,13 @@ Multi-Agent Interaction / OpenAI](https://openai.com/blog/emergent-tool-use/)
 - [Joel Simon](http://www.joelsimon.net/)
 - [Memo Akten](http://www.memo.tv/)
 
+## Courses
+- [Introduction to Synthetic Media Class at ITP/NYU](https://github.com/runwayml/Intro-Synthetic-Media)
+- [Introduction to Machine Learning for the Arts at IMA / Tisch / NYU.](https://github.com/ml5js/Intro-ML-Arts-IMA)
+- [The Neural Aesthetic @ ITP-NYU, Fall 2018 by Gene Kogan](https://ml4a.github.io/classes/itp-F18/)
+- [Super basic: Andrew NG's AI for everyone](https://www.deeplearning.ai/ai-for-everyone/)
+- [Fast.AI: Practial, requires Python know-how](https://course.fast.ai/)
+
 ## Tools, Tutorials, Models
 
 - [Daniel Shiffman's Coding Train: The bestest creative coding videos](https://thecodingtrain.com/)
@@ -92,8 +105,6 @@ Multi-Agent Interaction / OpenAI](https://openai.com/blog/emergent-tool-use/)
 @tg-bomze](https://colab.research.google.com/github/tg-bomze/ENTAR/blob/master/ENTAR_Eng.ipynb)
 - [Train StyleGAN2 in Colab, also in arbitary image sizes](https://github.com/skyflynil/stylegan2)
 - [Runway Processing (not p5!) Library](https://github.com/runwayml/processing-library)
-- [Course: Introduction to Machine Learning for the Arts at IMA / Tisch / NYU.](https://github.com/ml5js/Intro-ML-Arts-IMA)
-- [Course: The Neural Aesthetic @ ITP-NYU, Fall 2018 by Gene Kogan](https://ml4a.github.io/classes/itp-F18/)
 - [A curated list of synthetic content generators](https://github.com/paubric/thisrepositorydoesnotexist)
 - [A collection of StyleGAN pretrained models](https://github.com/justinpinkney/awesome-pretrained-stylegan)
 - [StyleGAN encoder / Peter Baylies](https://github.com/pbaylies/stylegan-encoder)
