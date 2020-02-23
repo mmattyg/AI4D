@@ -4,7 +4,10 @@ Workshop links
 ## Tools we used
 - [Runway Machine Learning for Creators](https://runwayml.com/)
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
-- [Colab demo: first order motion](https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb#scrollTo=UCMFMJV7K-ag)
+AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb#scrollTo=UCMFMJV7K-ag)
+- How it works, [Feature viz](https://distill.pub/2017/feature-visualization/appendix/), [Full distill article](https://distill.pub/2017/feature-visualization/)
+- [Artbreeder](https://artbreeder.com/)
+- [Colab demo: first order motion](https://colab.research.google.com/github/)
 
 ## Datasets
 - Just search Google: [flower dataset](https://www.google.com/search?q=flower+dataset), [shoe dataset](https://www.google.com/search?q=shoe+dataset)
@@ -32,7 +35,9 @@ Dataset resizing
 
 
 ## Runway code Examples
-by Daniel Shiffman
+- [Made with Runway showcase](https://runwayml.com/madewith)
+
+by Daniel Shiffman / the coding train
 * [The Coding Train Coding Challenge #150: AI Rainbows with RunwayML and p5.js](https://thecodingtrain.com/CodingChallenges/150-runway-rainbows.html)
 * [Send mouse input to RunwayML](https://editor.p5js.org/ima_ml/sketches/OUDjk3H4-)
 * [Send webcam video to RunwayML - HTTP](https://editor.p5js.org/ima_ml/sketches/cp87sFNRw)
@@ -43,6 +48,9 @@ by Daniel Shiffman
 Others P5.JS / ML5 / TF.JS demos
 - [Webcam Image Classification using MobileNet and p5.js](https://editor.p5js.org/yining/sketches/YXh8UG6pV)
 - [BigGAN send random vector + category to Runway, get image](https://editor.p5js.org/yining/sketches/kXqoZJuOf)
+- [Generate single StyleGAN image](https://editor.p5js.org/ima_ml/sketches/GOiFqtbkK)
+- [Interpolate between two StyleGAN vectors a/b](https://editor.p5js.org/ima_ml/sketches/dyJmIybwi-)
+- [Latent space walk: Random, Directional, Noise](https://editor.p5js.org/ima_ml/sketches/7YZzS37yh)
 
 
 
@@ -53,6 +61,8 @@ Multi-Agent Interaction / OpenAI](https://openai.com/blog/emergent-tool-use/)
 - [Eons / Mike Tyka](http://www.miketyka.com/?p=eons)
 - [Art Breeder / Joel Simon](https://artbreeder.com/)
 - [Art AI - AI art for sale](https://www.artaigallery.com/)
+- [AI Brushes](https://nurecas.com/ai-brushes)
+- [Unity Neural network generated faces from segmentation masks](https://www.youtube.com/watch?v=Ng7v9EkWXsA)
 
 
 ## Video
@@ -73,10 +83,20 @@ Multi-Agent Interaction / OpenAI](https://openai.com/blog/emergent-tool-use/)
 ](https://twitter.com/AndreasRef/status/1194747808559054850)
 - [Few-shot face translation video / @g_massol
 ](https://twitter.com/g_massol/status/1217495319300202496?s=11)
+- [Experiment with Google](https://experiments.withgoogle.com/collection/ai)
+- [Creativity disrupted](https://gitlab.fhnw.ch/hgk-ml/hgk-ml-seminars/tree/master/creativity-disrupted)
+- [Ml5.js community project](https://ml5js.org/community/)
 - [GauGAN experiment / Jonathan Fly](https://twitter.com/jonathanfly/status/1223042887639760896)
 - [Segmentation mask (from Unity) into Spade face (from Runway)](https://twitter.com/pretendsmarts/status/1189642138415517697)
 - [XOROMANCY Using hand tracking to walk latent space](http://www.graycrawford.com/xoromancy)
 - [Live Brush to GauGAN thing](https://twitter.com/fabinrasheed/status/1191255610479669248)
+- [Passwords.ai](https://passwords.ai/)
+
+##  Language generators
+- [Write With Transformer: Get a modern neural network to auto-complete your thoughts](https://transformer.huggingface.co/)
+- [Grover: writes fake news articles](https://grover.allenai.org/)
+- [Talk to transformer](https://talktotransformer.com/)
+
 
 ## People to follow
 - [Gene Kogan](https://genekogan.com/)
@@ -86,7 +106,11 @@ Multi-Agent Interaction / OpenAI](https://openai.com/blog/emergent-tool-use/)
 - [Peter Baylies](https://twitter.com/pbaylies)
 - [Derrick Schultz](https://dvschultz.github.io/design/index.html), On Yotube: [bustbright](https://www.youtube.com/channel/UCaZuPdmZ380SFUMKHVsv_AA)
 - [Joel Simon](http://www.joelsimon.net/)
+- [Philipp Schmitt](https://philippschmitt.com/)
 - [Memo Akten](http://www.memo.tv/)
+- Helena Sarin: [Neural Bricolage](https://www.neuralbricolage.com/), [On Twitter](https://twitter.com/glagolista)
+- [Shinseungback Kimyonghun](http://ssbkyh.com/)
+- [Anna Riddler](http://annaridler.com/)
 
 ## Courses
 - [Introduction to Synthetic Media Class at ITP/NYU](https://github.com/runwayml/Intro-Synthetic-Media)
@@ -95,7 +119,7 @@ Multi-Agent Interaction / OpenAI](https://openai.com/blog/emergent-tool-use/)
 - [Super basic: Andrew NG's AI for everyone](https://www.deeplearning.ai/ai-for-everyone/)
 - [Fast.AI: Practial, requires Python know-how](https://course.fast.ai/)
 
-## Tools, Tutorials, Models
+## Misc tools and models
 
 - [Daniel Shiffman's Coding Train: The bestest creative coding videos](https://thecodingtrain.com/)
 - [Peter Baylies StyleGAN 2, trained on WikiArt images](https://github.com/pbaylies/stylegan2)
