@@ -127,6 +127,7 @@ Multi-Agent Interaction / OpenAI](https://openai.com/blog/emergent-tool-use/)
 - [How to find new machine learning models and test them in Colab](https://www.youtube.com/watch?v=Ylb5pjCs1XU)
 - ["Entar" Colab pipeline for re-masteing, coloring old movies + Ken Burns effect / Denis Malimonov
 @tg-bomze](https://colab.research.google.com/github/tg-bomze/ENTAR/blob/master/ENTAR_Eng.ipynb)
+- [StyleGAN v2: notes on training and latent space exploration](https://medium.com/@5agado/stylegan-v2-notes-on-training-and-latent-space-exploration-e51cf96584b3)
 - [Train StyleGAN2 in Colab, also in arbitary image sizes](https://github.com/skyflynil/stylegan2)
 - [Runway Processing (not p5!) Library](https://github.com/runwayml/processing-library)
 - [A curated list of synthetic content generators](https://github.com/paubric/thisrepositorydoesnotexist)
