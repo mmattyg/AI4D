@@ -124,6 +124,7 @@ Multi-Agent Interaction / OpenAI](https://openai.com/blog/emergent-tool-use/)
 - [Daniel Shiffman's Coding Train: The bestest creative coding videos](https://thecodingtrain.com/)
 - [Peter Baylies StyleGAN 2, trained on WikiArt images](https://github.com/pbaylies/stylegan2)
 - [Google Colab of this ^](https://colab.research.google.com/drive/1s7HPdmdOjBhvj1vhz9zP2d4rn_GhdoZR)
+- [Machine Learning Visual Art Colabs](https://github.com/dvschultz/ml-art-colabs)
 - [How to find new machine learning models and test them in Colab](https://www.youtube.com/watch?v=Ylb5pjCs1XU)
 - ["Entar" Colab pipeline for re-masteing, coloring old movies + Ken Burns effect / Denis Malimonov
 @tg-bomze](https://colab.research.google.com/github/tg-bomze/ENTAR/blob/master/ENTAR_Eng.ipynb)
