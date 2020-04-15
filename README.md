@@ -5,7 +5,7 @@ Workshop links
 - [Runway Machine Learning for Creators](https://runwayml.com/)
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
 AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb#scrollTo=UCMFMJV7K-ag)
-- How it works, [Feature viz](https://distill.pub/2017/feature-visualization/appendix/), [Full distill article](https://distill.pub/2017/feature-visualization/)
+- How it works, [Feature viz](https://distill.pub/2017/feature-visualization/appendix/), [Full distill article](https://distill.pub/2017/feature-visualization/), [OpenAI Microscope](https://microscope.openai.com/models)
 - [Artbreeder](https://artbreeder.com/)
 - [Colab demo: first order motion](https://colab.research.google.com/github/)
 
@@ -75,6 +75,7 @@ Multi-Agent Interaction / OpenAI](https://openai.com/blog/emergent-tool-use/)
 - [Talk: Scott Eaton, Artist+AI Lecture: Figures and Form](https://www.youtube.com/watch?v=TN7Ydx9ygPo)
 - [Google's Experiment: Visualizing High-Dimensional Space](https://www.youtube.com/watch?v=wvsE8jm1GzE)
 - [Stylegan2 Experiments - Projecting real images of Johnny Depp](https://www.youtube.com/watch?v=3SXOGtTvfRQ)
+- [StyleGAN2 inspiration and techniques](https://youtu.be/lYoIn1aL37s)
 
 ## Experiments
 - [ML4A, Machine Learning for Artists Demos / Gene Kogan](https://ml4a.github.io/demos/)
