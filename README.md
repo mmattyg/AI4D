@@ -5,7 +5,7 @@ Workshop links
 - [Runway Machine Learning for Creators](https://runwayml.com/)
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
 AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb#scrollTo=UCMFMJV7K-ag)
-- How it works, [https://distill.pub/2020/circuits/early-vision/](https://distill.pub/2020/circuits/early-vision/), [OpenAI Microscope](https://microscope.openai.com/models)
+- How it works, [An Overview of Early Vision in InceptionV1](https://distill.pub/2020/circuits/early-vision/), [OpenAI Microscope](https://microscope.openai.com/models)
 - [Artbreeder](https://artbreeder.com/)
 - [Colab demo: first order motion](https://colab.research.google.com/github/)
 
