@@ -55,6 +55,7 @@ Others P5.JS / ML5 / TF.JS demos
 
 
 ## Works, projects
+- [The huge list of creativity + machine learning works](https://mlart.co)
 - [Emergent Tool Use from
 Multi-Agent Interaction / OpenAI](https://openai.com/blog/emergent-tool-use/)
 - [Mosaic Virus / Anna Ridler](http://annaridler.com/mosaic-virus/)
